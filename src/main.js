@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
+import './plugins/bootstrap'
+import './plugins/VueSlickCarousel'
 
 Vue.config.productionTip = false
 
