@@ -39,7 +39,7 @@ export default {
             background-color: #fff;
             border-radius: 15px 0 0 15px;
             height: 60px;
-            width: 50%;
+            width: 60%;
             z-index: 11;
         }
 

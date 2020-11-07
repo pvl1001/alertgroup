@@ -200,7 +200,12 @@ h6 {
         &_metr {
             border: 1px solid #E2E5E9;
             border-radius: 3px;
-            padding: 4px 0;
+
+            span{
+                display: inline-block;
+                height: 100%;
+                line-height: 22px;
+            }
 
             span:first-child {
                 padding: 0 7px 0 9px;
