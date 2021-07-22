@@ -1,4 +1,4 @@
-# alertgroup
+# alertgroup / верстка мобильной версии приложения
 
 ## Project setup
 ```
