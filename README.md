@@ -1,5 +1,5 @@
 # alertgroup / верстка мобильной версии приложения
-
+https://pvl1001.github.io/alertgroup/
 ## Project setup
 ```
 npm install
